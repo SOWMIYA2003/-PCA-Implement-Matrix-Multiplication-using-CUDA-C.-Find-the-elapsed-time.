@@ -17,6 +17,9 @@ Intoduce a Main function, in the main method declare the required variables and 
 Save the program and execute it . 
 ## Program :
 ```
+DEVELOPED BY : SOWMIYA N
+REGISTER NO : 212221230106
+
 #include <stdio.h>
 #include <sys/time.h>
 
@@ -138,7 +141,7 @@ Elapsed Time: 0.000037 seconds
                     0.00%  2.4000us         3     800ns     250ns  1.8100us  cuDeviceGetCount
                     0.00%     930ns         2     465ns     210ns     720ns  cuDeviceGet
                     0.00%     310ns         1     310ns     310ns     310ns  cuDeviceGetUuid
-root@MidPC:/home/student/Desktop#
+root@MidPC:/home/student/Desktop# 106 
 ```
 ![WhatsApp Image 2023-05-26 at 9 39 17 AM](https://github.com/SOWMIYA2003/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/93427443/7f42d036-3357-48c9-90f0-87fe9337823b)
 ## Result:
